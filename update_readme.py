@@ -1,6 +1,6 @@
 import os
 
-template="![alt text](https://raw.githubusercontent.com/lefevrej/icons/main/icons/"
+template="![alt text](https://raw.githubusercontent.com/lefevrej/Logos-for-gmail-signature/main/icons/"
 readme_file="README.md"
 
 res=""
